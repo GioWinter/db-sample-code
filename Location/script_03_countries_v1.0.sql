@@ -24,7 +24,9 @@ ALTER TABLE LOC.COUNTRIES
 	ADD CONSTRAINT FK001_COUNTRIES_TO_SUBREGION FOREIGN KEY (SUBREGION_ID) REFERENCES LOC.SUBREGION (ID);
 	
 	
-
+---------------------------------------------------------------------------------------------------------
+-- DML: COUNTRIES 
+---------------------------------------------------------------------------------------------------------
 
 INSERT INTO LOC.COUNTRIES (ID,SUBREGION_ID,COUNTRY_NAME,ISO_ALPHA_CODE ) VALUES (1,10,'Algeria','DZA');
 INSERT INTO LOC.COUNTRIES (ID,SUBREGION_ID,COUNTRY_NAME,ISO_ALPHA_CODE ) VALUES (2,10,'Antarctica','ATA');
