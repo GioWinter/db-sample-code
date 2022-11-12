@@ -1,6 +1,7 @@
 --- Creat By...: Giovani Pacheco
 --- Version....: 1.0
 --- Create Date: 11/12/2022
+--- Description: 
 
 
 
@@ -9,11 +10,12 @@
 ---------------------------------------------------------------------------------------------------------
 
 CREATE TABLE LOC.SUBREGION (
-	ID					INT NOT NULL,
-	REGION_ID			INT	NOT	NULL,
-	SUBREGION_NAME		VARCHAR2(50) NOT NULL
+	ID					INT 		NOT NULL, -- IDENTIFICATION KEY
+	REGION_ID				INT		NOT NULL, -- FOREING OF TABLE REGION 
+	SUBREGION_NAME				VARCHAR2(50) 	NOT NULL  -- NAME OF SUBREGION
 );
 
+--- CONSTRAINTS
 ALTER TABLE LOC.SUBREGION 
 	ADD CONSTRAINT PK001_SUBREGION PRIMARY KEY (ID);
 	
