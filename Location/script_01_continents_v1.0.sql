@@ -5,7 +5,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------
--- Table: REGION
+-- Table: CONTINENTS
 ---------------------------------------------------------------------------------------------------------
 
 CREATE TABLE LOC.CONTINENTS (
@@ -29,5 +29,6 @@ INSERT INTO LOC.REGION (ID,CONTINENT_NAME) VALUES (3,'Antarctica');
 INSERT INTO LOC.REGION (ID,CONTINENT_NAME) VALUES (4,'Asia');
 INSERT INTO LOC.REGION (ID,CONTINENT_NAME) VALUES (5,'Europa');
 INSERT INTO LOC.REGION (ID,CONTINENT_NAME) VALUES (6,'Aoceania');
+INSERT INTO LOC.REGION (ID,CONTINENT_NAME) VALUES (7,'Others');
 
 
