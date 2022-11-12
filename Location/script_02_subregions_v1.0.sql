@@ -2,7 +2,7 @@
 --- Version....: 1.0
 --- Create Date: 11/12/2022
 --- Update.....: 
----         12/11/2022 - Alteração do nome da tabela, inclusão de novas regiões. 
+---         12/11/2022 - Table name change, inclusion of new regions.
 
 
 ---------------------------------------------------------------------------------------------------------
