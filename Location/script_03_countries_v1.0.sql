@@ -1,6 +1,7 @@
 --- Creat By...: Giovani Pacheco
 --- Version....: 1.0
 --- Create Date: 11/12/2022
+--- Description:
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -10,11 +11,12 @@
 
 CREATE TABLE LOC.COUNTRIES (
 	ID				INT NOT NULL,
-	SUBREGION_ID	INT NOT NULL,
-	COUNTRY_NAME	VARCHAR2(250) NOT NULL,
-	ISO_ALPHA_CODE	VARCHAR2(3)
+	SUBREGION_ID			INT NOT NULL,
+	COUNTRY_NAME			VARCHAR2(250) NOT NULL,
+	ISO_ALPHA_CODE			VARCHAR2(3)
 );
 
+--- CONSTRAINTS
 ALTER TABLE LOC.COUNTRIES
 	ADD CONSTRAINT PK001_COUNTRIES PRIMARY KEY (ID);
 
