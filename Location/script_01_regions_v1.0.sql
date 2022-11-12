@@ -1,6 +1,7 @@
 --- Creat By...: Giovani Pacheco
 --- Version....: 1.0
 --- Create Date: 11/12/2022
+--- Description: table containing the continents.
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -9,9 +10,11 @@
 
 CREATE TABLE LOC.REGION (
 	ID					INT NOT NULL,          -- Unique identifier
-	REGION_NAME			VARCHAR2(50) NOT NULL, -- Name of Region
+	REGION_NAME			VARCHAR2(50) NOT NULL          -- Name of Region
 );
 
+
+--- PRIMARY KEY
 ALTER TABLE LOC.REGION
 	ADD CONSTRAINT PK001_REGION PRIMARY KEY (ID);
 	
