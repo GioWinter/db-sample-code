@@ -11,11 +11,4 @@ The models presented here were evolved from the examples from the Oracle reposit
 **The Schemas are**: 
 
   1. LC: Location\
-    1.1 Tables\
-      1.1.1 - Continentes\
-      1.1.2 - Regions\
-      1.1.3 - Countries\
-      1.1.4 - Staties\
-      1.1.5 - Cities
 
-*Note*: The execution of the scripts must obey the sequence of the tables.
