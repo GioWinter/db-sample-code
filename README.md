@@ -10,5 +10,5 @@ The models presented here were evolved from the examples from the Oracle reposit
 
 **The Schemas are**: 
 
-  1. LC: Location\
+  1. LC: Location
 
