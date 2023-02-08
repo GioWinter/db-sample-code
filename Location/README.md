@@ -21,6 +21,6 @@ Share data model regarding the location of can be reused in future data modeling
 
 **Schema Model:**
 
-![image](https://user-images.githubusercontent.com/117488257/202218407-74cbbd23-f080-4765-88b4-f5c5565150f6.png)
+![Capture](https://user-images.githubusercontent.com/117488257/217559715-78a4defc-6d4d-48ec-ab46-cfbb89a5dad9.PNG)
 
 
