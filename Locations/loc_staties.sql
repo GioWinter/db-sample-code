@@ -9,9 +9,9 @@
 ---------------------------------------------------------------------------------------------------------
 
 CREATE TABLE LOC.STATIES (
-  STATE_ID 			INT 		  NOT NULL, 
+  STATE_ID 		INT 	      NOT NULL, 
   STATE_NAME    	VARCHAR2(250) NOT NULL, 
-  CAPITAL		    VARCHAR2(250), 
+  CAPITAL		VARCHAR2(250), 
   ISO_ALPHA_CODE	VARCHAR2(3), 
   REGION_ID 		INT, 
   COUNTRY_ID 		INT
