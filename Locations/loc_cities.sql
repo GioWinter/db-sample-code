@@ -9,10 +9,10 @@
 ---------------------------------------------------------------------------------------------------------
 
 CREATE TABLE LOC.CITIES (
-	CITY_ID				INT NOT NULL,				 -- Unique City Identifier
-	CITY_NAME			VARCHAR2(250) NOT NULL,      -- Name of cities
-	STATE_ID			INT	NOT NULL,				 -- foreign staties
-	CODE				INT                          -- identifier code provided by federal agencies of each country. 
+	CITY_ID		INT           NOT NULL,	     -- Unique City Identifier
+	CITY_NAME	VARCHAR2(250) NOT NULL,      -- Name of cities
+	STATE_ID	INT	      NOT NULL,	     -- foreign staties
+	CODE		INT                          -- identifier code provided by federal agencies of each country. 
 );
 
 -- CONSTRAINTS
