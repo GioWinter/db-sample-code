@@ -1,4 +1,4 @@
-# oracle-sample-schemas
+# Sample-code
 repository to share oracle codes, for students, pre-sales, sale engineer, use for demos, presentations and studies.
 
 # 1. Introduction
