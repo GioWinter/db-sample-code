@@ -1,0 +1,79 @@
+﻿STATE_ID,STATE_NAME,CAPITAL,ISO_ALPHA_CODE,REGION_ID,COUNTRY_ID,LAT,LNG
+1,Acre,Rio Branco,AC,1012,199,-8.77,-70.55
+2,Alagoas,Maceió,AL,1014,199,-9.62,-36.82
+3,Amazonas,Manaus,AM,1012,199,-3.47,-65.1
+4,Amapá,Macapá,AP,1012,199,1.41,-51.77
+5,Bahia,Salvador,BA,1014,199,-13.29,-41.71
+6,Ceará,Fortaleza,CE,1014,199,-5.2,-39.53
+7,Distrito Federal,Brasília,DF,1013,199,-15.83,-47.86
+8,Espírito Santo,Vitória,ES,1008,199,-19.19,-40.34
+9,Goiás,Goiânia,GO,1013,199,-15.98,-49.86
+10,Maranhão,São Luís,MA,1014,199,-5.42,-45.44
+11,Minas Gerais,Belo,MG,1008,199,-18.1,-44.38
+12,Mato Grosso do Sul,Campo Grande,MS,1013,199,-20.51,-54.54
+13,Mato Grosso,Cuiabá,MT,1013,199,-12.64,-55.42
+14,Pará,Belém,PA,1012,199,-3.79,-52.48
+15,Paraíba,João Pesso,PB,1014,199,-7.28,-36.72
+16,Pernambuco,Recife,PE,1014,199,-8.38,-37.86
+17,Piauí,Teresina,PI,1014,199,-6.6,-42.28
+18,Paraná,Curitiba,PR,1007,199,-24.89,-51.55
+19,Rio de Janeiro,Rio de Janeiro,RJ,1008,199,-22.25,-42.66
+20,Rio Grande do Norte,Natal,RN,1014,199,-5.81,-36.59
+21,Rondônia,Porto Velho,RO,1012,199,-10.83,-63.34
+22,Roraima,Boa Vista,RR,1012,199,1.99,-61.33
+23,Rio Grande do Sul,Porto Alegre,RS,1007,199,-30.17,-53.5
+24,Santa Catarina,Florianópolis,SC,1007,199,-27.45,-50.95
+25,Sergipe,Aracaju,SE,1014,199,-10.57,-37.45
+26,São Paulo,São Paulo,SP,1008,199,-22.19,-48.79
+27,Tocantins,Palmas,TO,1012,199,-9.46,-48.26
+28,Alabama,Montgomery,AK,1015,216,32.318231,-86.902298
+29,Alaska,Juneau,AL,1007,216,63.588753,-154.493062
+30,Arizona,Phoenix,AZ,1007,216,34.048928,-111.093731
+31,Arkansas,Little Rock,AR,1015,216,35.20105,-91.831833
+32,California,Sacramento,CA,1015,216,36.778261,-119.417932
+33,Colorado,Denver,CO,1015,216,39.550051,-105.782067
+34,Connecticut,Hartford,CT,1014,216,41.603221,-73.087749
+35,Delaware,Dover,DE,1007,216,38.910832,-75.52767
+36,Florida,Tallahassee,FL,1007,216,27.664827,-81.515754
+37,Georgia,Atlanta,GA,1007,216,32.157435,-82.907123
+38,Hawaii,Honolulu,HI,1007,216,19.898682,-155.665857
+39,Idaho,Boise,ID,1015,216,44.068202,-114.742041
+40,Illinois,Springfield,IL,1016,216,40.633125,-89.398528
+41,Indiana,Indianapolis,ID,1015,216,40.551217,-85.602364
+42,Iowa,Des Moines,IA,1016,216,41.878003,-93.097702
+43,Kansas,Topeka,KS,1016,216,39.011902,-98.484246
+44,Kentucky,Frankfort,KY,1016,216,37.839333,-84.270018
+45,Louisiana,Baton Rouge,LA,1007,216,31.244823,-92.145024
+46,Maine,Augusta,ME,1007,216,45.253783,-69.445469
+47,Maryland,Annapolis,MD,1014,216,39.045755,-76.641271
+48,Massachusetts,Boston,MA,1007,216,42.407211,-71.382437
+49,Michigan,Lansing,MI,1014,216,44.314844,-85.602364
+50,Minnesota,Saint Paul,MN,1016,216,46.729553,-94.6859
+51,Mississippi,Jackson,MS,1016,216,32.354668,-89.398528
+52,Missouri,Jefferson City,MO,1016,216,37.964253,-91.831833
+53,Montana,Helena,MT,1007,216,46.879682,-110.362566
+54,Nebraska,Lincoln,NE,1015,216,41.492537,-99.901813
+55,Nevada,Carson City,NV,1007,216,38.80261,-116.419389
+56,New Hampshire,Concord,NH,1016,216,43.193852,-71.572395
+57,New Jersey,Trenton,NJ,1016,216,40.058324,-74.405661
+58,New Mexico,Santa Fe,NM,1014,216,34.97273,-105.032363
+59,New York,Albany,NY,1014,216,43.299428,-74.217933
+60,North Carolina,Raleigh,NC,1015,216,35.759573,-79.0193
+61,North Dakota,Bismarck,ND,1015,216,47.551493,-101.002012
+62,Ohio,Columbus,OH,1014,216,40.417287,-82.907123
+63,Oklahoma,Oklahoma City,OK,1016,216,35.007752,-97.092877
+64,Oregon,Salem,OR,1007,216,43.804133,-120.554201
+65,Pennsylvania,Harrisburg,PA,1015,216,41.203322,-77.194525
+66,Rhode Island,Providence,RI,1014,216,41.580095,-71.477429
+67,South Carolina,Columbia,SC,1014,216,33.836081,-81.163725
+68,South Dakota,Pierre,SD,1007,216,43.969515,-99.901813
+69,Tennessee,Nashville,TN,1016,216,35.517491,-86.580447
+70,Texas,Austin,TX,1007,216,31.968599,-99.901813
+71,Utah,Salt Lake City,UT,1007,216,39.32098,-111.093731
+72,Vermont,Montpelier,VT,1015,216,37.431573,-78.656894
+73,Virginia,Richmond,VA,1007,216,37.431573,-78.656894
+74,Washington,District of Columbia,WA,1014,216,38.905985,-77.033418
+75,West Virginia,Charleston,WV,1015,216,38.597626,-80.454903
+76,Wisconsin,Madison,WI,1016,216,43.78444,-88.787868
+77,Wyoming,Cheyenne,WY,1007,216,43.075968,-107.290284
+78,Porto Rico,San Juan,WY,1007,216,22.7713,53.2685
